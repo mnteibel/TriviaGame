@@ -35,7 +35,7 @@ $(document).ready(function() {
 		images : "<img src=https://cdn20.patch.com/inline_images/3500945/1474660521.gif height=220>"
 	}
 	var q5 = {
-		question : "How many error messages to you get trying to code this assignment?",
+		question : "How many error messages did you get trying to code this assignment?",
 		answers : ["A. Too many to count","B. None","C. Fifteen", "D. Just click one you have a 1/4 chance"],
 		correctAnswer : "A. Too many to count",
 		images : "<img src=https://i1.wp.com/blog-pantheon-prod.global.ssl.fastly.net/blog/wp-content/uploads/2017/03/coding-programming-errors-r2d2.gif?resize=500%2C211&ssl=1 height=220>"
